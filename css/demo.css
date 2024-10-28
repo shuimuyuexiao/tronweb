@@ -121,6 +121,8 @@ a:hover, a:focus {
 
 .container .trbg {
 	background-color: #f85e5e;
+	color: #ffffff;
+    font-weight: 700;
 }
 
 @media screen and (max-width: 25em) {
