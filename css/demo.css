@@ -9,12 +9,12 @@ body {
 }
 
 a {
-	color: #31bc86;
+	color: #0ebb77;
 	text-decoration: none;
 }
 
 a:hover, a:focus {
-	color: #7c8d87;
+	color: #778f86;
 }
 
 .container > header {
@@ -123,6 +123,12 @@ a:hover, a:focus {
 	background-color: #f85e5e;
 	color: #ffffff;
     font-weight: 700;
+}
+.trbg a{
+	color: #ffffff;
+}
+.trbg a:hover{
+	color: #778f86;
 }
 
 @media screen and (max-width: 25em) {

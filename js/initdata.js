@@ -72,7 +72,7 @@ if (typeof TronWeb !== 'undefined') {
 
     const newRowHTML = newRowTr + `
             <td>${name}</td>
-            <td>${address}</td>
+            <td><a href="https://tronscan.org/#/address/${address}" target="_blank">${address}</a></td>
             <td>${trxBalance}</td>
             <td>${trc20Balance}</td>
         </tr>
